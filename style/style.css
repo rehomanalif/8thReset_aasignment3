@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+body{
+    font-family: "Manrope", sans-serif;
+}
+
+@media (min-width: 1024px) {
+    header,section{
+        width: 1170px;
+        margin: auto;
+    }
+ }
+
+li>a:hover{
+    color: #FF4240;
+}
